@@ -1,6 +1,6 @@
 # Roblox Creation  
 I haven't made any 3D models, animations, or UI icons.  
-Discord: @jiro4876  
+Contact me with Discord: @jiro4876
 
 # Payment: Only PayPal (Currency: Euro €):
 
