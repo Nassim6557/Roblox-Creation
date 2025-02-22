@@ -7,6 +7,7 @@ Discord: @jiro4876
 5€ - Small system  
 15€ - Medium system  
 20€ or more - Complex system
+
 to be discussed with the client
 
 # Inventory System  
