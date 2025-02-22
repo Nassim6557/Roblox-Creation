@@ -11,7 +11,7 @@ I'm a scripter with 2 years of development experience in Roblox Studio.
 
 to be discussed with the client
 
-I haven't made any 3D models, animations, or UI icons.  
+I haven't made any 3D models, animations, or UI icons in this Video.  
 # Inventory System  
 https://youtu.be/I1r350OMAdM
 
